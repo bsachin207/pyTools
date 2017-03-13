@@ -14,7 +14,7 @@ The script is neither optomized nor intelligent in terms of finding matches.
 Please note this is just for a demo purpose.
 
 Credits:
-BeautifulSoup, NTLK  and of couse ME !
+BeautifulSoup, NTLK  and of course ME !
 
 Please feel free to provide any suggestion or modifications.
 """
