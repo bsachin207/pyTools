@@ -1,0 +1,41 @@
+SACHIN BADGUJAR
+https://www.linkedin.com/in/sachinbadujar
+409 Cheryl Dr Iselin New Jersey 08830 ? 9802330393 ? sachin.d.badgujar@gmail.com SUMMARY
+Versatile, innovative with 2+ years of development and testing experience in IT industry with expertise in Python, DB2, Cloud computing, Machine Learning, Databases. Graduate in computer science with Data Science as specialization. SKILLS
+Languages: Python, Java, SQL, NoSQL, COBOL, JCL, REXX, C++, R-Programming
+Data: Cloud/Hadoop, Big Data, MReduce, Apache spark, Hive, Oracle 11g, IBM Mainframe, DB2 MongoDB.
+Web Technologies: HTML, JavaScript, XML, PHP, Bootstrap, Ionic Framework, NodeJS, AngularJs, D3.js.
+Operating systems: z/OS, Linux/Unix, Windows, Android, ROS.
+Tools: Numpy, Pandas, Spyder, sci-kit, MATLAB, Eclipse, Rally Agile, Crystal Reports, Visual Studio-2010, IBM Data Studio 3.2.0, Distributed Systems, Control-M, Service Now, Shell Scripting, Git CERTIFICATIONS AND LEADERSHIP EXPERIENCE
+IBM Certified Database Associate – DB2 10.1 Fundamentals. (Nov 2014)
+Innovation Implementation - Harvard Manage Mentor. (Feb 2014)
+Published ‘Shortcut and Utilities for TSO, ISPF, and Mainframe Mochasoft’. - Internal Paper at Infosys
+IBM Master the Mainframe Part 1 Winner (Dec 2015) PROFESSIONAL EXPERIENCE
+Chicago Mercantile Exchange Group, Chicago. – Risk tools, Summer Intern (Fall 2016)
+? Enhanced a Hadoop MapR jobs to produce formatted trading data for high end detailed analysis.
+? Python and shell scripts to automate the process of data fetching, merging, and analysis reporting.
+? Responsible for analyzing financial data and creating Risk Tools in collaboration with investigation teams.
+University of North Carolina, Charlotte. – Teaching Assistant (Jan 2016 - Present)
+? Teaching assistant for under graduate level course of 86 students, ‘Operating Systems’, where my responsibilities include performing research, creating assignments, grading, analyzing class performance and helping students.
+American Express - Infosys Ltd. – QA, Mainframe Developer; Pune, India (Aug 2013-Jan 2015)
+? Responsible for Design, Code, test, ETL and implement complex business logic for AMEX Anti-Money Laundering, a Knowledge Based System, in Mainframes. Explored SDLC as well as Agile methodology for software development.
+? Tasks include- calculating Risk Scores for Fraud Risk Analysis, design and create stored procedures, COBOL-DB2, Hierarchical Database IMS programs and QA checks for testing of the application.
+? Innovatively developed REXX tools for PS reformatting, cleansing information conserving 30% of the coding time.
+? Creating an end-to-end test plan for multiple projects and executing it. Performing unit testing, system integration testing. ACADEMIC PROJECTS
+Git Link: https://github.com/bsachin207
+Research Project-UAV-Data Analysis- Initial phase- (Fall 2015)
+? Integrated Python Imaging Library to perform coordinate extraction from image EXIF data. Implemented Geofencing.
+? Implementing initial phase of Cloud Robotics project for analyzing UAV-Data with the help of Hadoop infrastructure. Analyzing huge image data for creation of 3D models and Point Clouds using ROS and software-Agisoft.
+Design and Implementation of Machine Learning Algorithms- (Fall 2015)
+? Classified images with KNN and CNN with optimized distance calculations with the help of numpy and Scipy libraries.
+? Implemented PLA pocket algorithm and compared a performance with initialized PLA using pseudo inverse algorithm.
+? Processed real world images data using machine learning for image classification competition at Kaggel.com
+Cloud-based Project-Crime Forecast – (Fall 2015)
+Link: http://webpages.uncc.edu/ssirigin/
+? Hadoop-based data analysis using Apache Spark. Implemented Crime Prediction system based on the machine learning algorithm Naïve Bayes in spark. Efficiently used Data-frames against RDDs to improve performance via query optimization. The System shows the probability of crime, given a particular place and time.
+? Used Map Reduce, Hive queries and implemented page rank on Wikipedia data. COURSES
+Algorithms and Data Structures Cloud Computing for Data Analysis Robot Motion Planning
+Knowledge Discovery in Database Machine Learning EDUCATION
+Masters, Computer Science University of North Carolina at Charlotte (GPA: 3.88) May 2017
+Post graduate diploma, Centre for Development of Advanced Computing (GPA: 3.6) Feb 2013
+Bachelors, Electronics and Telecommunication Engineering, University of Pune (GPA: 3.71) May 2012
