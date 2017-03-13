@@ -1,6 +1,6 @@
 # pyTools
 Storeage of Python Tools 
-# Use restricted to Citadel LLC websites.
+# Currently, the tool works only for Citadel Career pages
 # Objective: 
 Scrap the career web pages and find out matching jobs with the 
 provided resume.
