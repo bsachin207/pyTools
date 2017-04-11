@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 31 16:45:36 2017
 
-Objective: Calculate repurchase rate using purchase history
+Objective: Calculate repurchase rate using purchase history 
 
 @author: Sachin
 """
